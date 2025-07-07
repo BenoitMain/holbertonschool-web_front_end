@@ -148,9 +148,3 @@ Bienvenue ! Dans ce projet, vous allez apprendre à **utiliser les balises HTML 
 * 🧹 Fichiers bien nommés (pas d'espaces, casse correcte)
 
 ---
-
-## 🏁 8. Conclusion
-
-Maîtriser la structure HTML est essentiel pour créer des bases solides. CSS et JS viendront après, mais sans HTML propre, l’accessibilité, le SEO et la maintenance sont compromis.
-
-👉 **Prochaine étape : créez votre page d’accueil Techium dès maintenant !** 💪
