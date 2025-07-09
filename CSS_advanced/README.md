@@ -103,5 +103,4 @@ Fichier README.md requis à la racine
 
  Le code est propre, indenté, commenté
 
- Ce README.md est complet et présent
 
