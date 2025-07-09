@@ -1,3 +1,7 @@
+<div align="center"><img src="https://github.com/ksyv/holbertonschool-web_front_end/blob/main/baniere_holberton.png"></div>
+
+---
+
 🌐 Techium - Projet HTML & CSS
 📝 Présentation
 Bienvenue dans le projet Techium !
